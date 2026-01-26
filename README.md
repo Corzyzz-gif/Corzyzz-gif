@@ -1,7 +1,7 @@
 ## Hi there👋. My name is Cory Tran, and I am an Iowa State University student majoring in computer science
-## with a strong interest in problem-solving, software development, and learning how systems work under the hood. 
-## I enjoy building projects that apply core computer science concepts and help me grow as a programmer
-## through hands-on experience.
+with a strong interest in problem-solving, software development, and learning how systems work under the hood. 
+I enjoy building projects that apply core computer science concepts and help me grow as a programmer
+through hands-on experience.
 
 <!--
 **Corzyzz-gif/Corzyzz-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
